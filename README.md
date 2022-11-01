@@ -1,1 +1,1 @@
-# Simple application for OpenShift
+# Simple application for OpenShift Lab
